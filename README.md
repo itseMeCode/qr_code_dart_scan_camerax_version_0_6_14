@@ -1,5 +1,7 @@
 [![pub package](https://img.shields.io/pub/v/qr_code_dart_scan.svg)](https://pub.dev/packages/qr_code_dart_scan)
 
+# Temporary fork for version updates (not tested for all usecases!!!)
+
 # QRCodeDartScan
 
 A QR code scanner that works on both iOS and Android using [dart decoder](https://github.com/shirne/zxing-dart).
